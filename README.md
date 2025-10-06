@@ -20,6 +20,15 @@ Also, sometimes I do some vibe coding. Just testing a fresh idea, proving a conc
 
 **Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
+![AWS Athena](https://img.shields.io/badge/AWS_Athena-007396?style=for-the-badge&logo=amazonathena&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-BI-blue?style=flat&logo=amazonquicksight&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-FF4F8B?style=for-the-badge&logo=amazon-aurora&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-Data_Pipelines-orange?logo=amazonaws&logoColor=white)
+![Amazon SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 AWS is my home base. My favorite service? **Lambda**. Here's why: most courses teach you how to program, but they never teach you how to execute your code somewhere other than your laptop. 
 
@@ -31,11 +40,21 @@ I've also spent serious time with enormous Redshift clusters, S3 data lakes, Glu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
 
 **Full-Stack Development**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **AI & Agentic Workflows**  
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
@@ -60,9 +79,9 @@ If you're working on something interesting—data pipelines, AI experiments, sca
 
 ## Projects
 
-Here are some things I've been working on:
-
-WIP
+### TalkToMyDocsRag
+A RAG (Retrieval Augmented Generation) system to chat with your documents.
+[GitHub Repository](https://github.com/attinto/TalkToMyDocsRag)
 
 ---
 
