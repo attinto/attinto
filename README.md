@@ -2,7 +2,7 @@
 
 I started at Amazon in operations—the kind of work where you're moving fast. Eventually, I moved into Business Intelligence Engineer in Luxembourg, which felt natural. But here's the thing: my team was quite strong in data engineering. These people lived and breathed pipelines, infrastructure, and scale. I had to adapt.
 
-That adaptation changed everything. I went from analyzing data to building the systems that make analysis possible in the first place.
+That shift transformed my role. I moved from analyzing data to developing applications and systems that enable analysis and automate compliance processes, specifically for Anti-Money Laundering and Suspicious Activity Monitoring.
 
 ---
 
