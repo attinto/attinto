@@ -1,4 +1,5 @@
-# Hi, I'm Alejandro
+# attinto
+
 
 My professional life has been long, from restaurants to call centers, however my corporate life started at Amazon in operations, the kind of work related to packages and fulfillment centers. Eventually, I moved into Business Intelligence Engineer in Luxembourg, which was amazing. My team was quite strong in data engineering. They breathed pipelines and Redshift. I had to adapt and I learned a lot.
 
@@ -19,6 +20,8 @@ I've also built full-stack applications—backends, frontends, UIs, the whole st
 Honestly the best moment in programming is when this thing that you are working on finally works after hours of not working.
 
 Also, sometimes I do some vibe coding. Just testing a fresh idea, proving a concept works, no pressure.
+
+I also offer consulting and project services in AI and automation.   
 
 ### The Stack I Work With
 
