@@ -1,18 +1,22 @@
 # Hi, I'm Alejandro
 
-I started at Amazon in operations—the kind of work where you're moving fast. Eventually, I moved into Business Intelligence Engineer in Luxembourg, which felt natural. But here's the thing: my team was quite strong in data engineering. These people lived and breathed pipelines, infrastructure, and scale. I had to adapt.
+My professional life has been long, from restaurants to call centers, however my corporate life started at Amazon in operations, the kind of work related to packages and fulfillment centers. Eventually, I moved into Business Intelligence Engineer in Luxembourg, which was amazing. My team was quite strong in data engineering. They breathed pipelines and Redshift. I had to adapt and I learned a lot.
 
-That shift transformed my role. I moved from analyzing data to developing applications and systems that enable analysis and automate compliance processes, specifically for Anti-Money Laundering and Suspicious Activity Monitoring.
+Also, I had an amazing opportunity to build some web applications:
+
+    1. A system to transform and format text into HTML, this is widely used at Amazon
+    2. A full aplication to automate compliance management for Anti-Money Laundering and Suspicious Activity Monitoring.
+
 
 ---
 
 ## What I Do Now
 
-I'm a **Data Engineer**, and a big part of my work has involved moving petabytes of data.
+I work as Data Engineer on a small company. 
 
 I've also built full-stack applications—backends, frontends, UIs, the whole stack—and regular websites when the project calls for it.
 
-But honestly? The best moment in programming is when this thing that you are working on finally works.
+Honestly the best moment in programming is when this thing that you are working on finally works after hours of not working.
 
 Also, sometimes I do some vibe coding. Just testing a fresh idea, proving a concept works, no pressure.
 
@@ -20,19 +24,10 @@ Also, sometimes I do some vibe coding. Just testing a fresh idea, proving a conc
 
 **Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
-![AWS Athena](https://img.shields.io/badge/AWS_Athena-007396?style=for-the-badge&logo=amazonathena&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-BI-blue?style=flat&logo=amazonquicksight&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
-![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-FF4F8B?style=for-the-badge&logo=amazon-aurora&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-Data_Pipelines-orange?logo=amazonaws&logoColor=white)
-![Amazon SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 
 AWS is my home base. My favorite service? **Lambda**. Here's why: most courses teach you how to program, but they never teach you how to execute your code somewhere other than your laptop. 
 
-Lambda changed how I think about deploying logic—fast, scalable, and without managing servers.(I also like docker)
+Lambda changed how I think about deploying scriptss.(I also like docker)
 
 I've also spent serious time with enormous Redshift clusters, S3 data lakes, Glue, Step Functions, and pretty much every data service AWS offers.
 
@@ -40,21 +35,11 @@ I've also spent serious time with enormous Redshift clusters, S3 data lakes, Glu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
 
 **Full-Stack Development**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **AI & Agentic Workflows**  
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
